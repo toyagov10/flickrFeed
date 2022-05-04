@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flickr_data</key>
+	<dict>
+		<key>flickr_url</key>
+		<string>https://live.staticflickr.com</string>
+		<key>flickr_api_key</key>
+		<string>d696c0e56363d2e4f43ef322dad14b4f</string>
+	</dict>
+</dict>
+</plist>
